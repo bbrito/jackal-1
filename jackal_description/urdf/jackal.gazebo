@@ -74,7 +74,7 @@
     </sensor>
   </gazebo>
   -->
-<!--
+<!-- -->
   <gazebo reference="VLP16">
         <sensor type="ray" name="jackal-VLP16">
           <pose>0 0 0 0 0 0</pose>
@@ -115,7 +115,7 @@
           </plugin>
         </sensor>
       </gazebo>
--->
+
   <gazebo reference="base_link">
     <turnGravityOff>false</turnGravityOff>
   </gazebo>
